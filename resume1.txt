@@ -1,0 +1,1 @@
+Experienced in Python and machine learning. Worked with pandas, NumPy, and built projects using scikit-learn and TensorFlow.
